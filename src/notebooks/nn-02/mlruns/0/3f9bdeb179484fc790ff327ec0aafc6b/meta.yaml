@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henry/euler-nn/src/notebooks/nn-02/mlruns/0/3f9bdeb179484fc790ff327ec0aafc6b/artifacts
+end_time: 1712067945465
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3f9bdeb179484fc790ff327ec0aafc6b
+run_name: fearless-fowl-312
+run_uuid: 3f9bdeb179484fc790ff327ec0aafc6b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712067939468
+status: 3
+tags: []
+user_id: henry

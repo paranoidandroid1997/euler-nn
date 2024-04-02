@@ -1,0 +1,12 @@
+  | Name     | Type             | Params
+----------------------------------------------
+0 | fc1      | Linear           | 420   
+1 | fc2      | Linear           | 42    
+2 | dropout5 | Dropout          | 0     
+3 | dropout2 | Dropout          | 0     
+4 | loss_fn  | CrossEntropyLoss | 0     
+----------------------------------------------
+462       Trainable params
+0         Non-trainable params
+462       Total params
+0.002     Total estimated model params size (MB)
